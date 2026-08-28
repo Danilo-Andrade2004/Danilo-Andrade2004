@@ -11,13 +11,13 @@ Atualmente, estou aprimorando meus conhecimentos em desenvolvimento web e buscan
 Tenho interesse principalmente em desenvolvimento de back-end, desenvolvimento web e construção de sistemas simples e eficientes.
 
 ## Tecnologias
+Spring Boot
 
 ### Linguagens
 - Go
 - Java
 - C
 - C++
-- Spring Boot
 
 ### Desenvolvimento Web
 - HTML
@@ -28,7 +28,6 @@ Tenho interesse principalmente em desenvolvimento de back-end, desenvolvimento w
 ### Banco de Dados
 - PostgreSQL
 - MySQL
-- SQLite
 
 ### Ferramentas
 - Git
